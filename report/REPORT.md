@@ -1,5 +1,5 @@
 # Báo Cáo Lab 7: Embedding & Vector Store
-**Họ tên:** [Điền sau]  
+**Họ tên:** [Bùi Quang Vinh]  
 **Nhóm:** B3-C401  
 **Ngày:** 10/04/2026
 
