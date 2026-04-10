@@ -4,6 +4,7 @@ from .chunking import (
     FixedSizeChunker,
     RecursiveChunker,
     SentenceChunker,
+    VietnameseLegalChunker,
     compute_similarity,
 )
 from .embeddings import (
@@ -23,6 +24,7 @@ __all__ = [
     "FixedSizeChunker",
     "SentenceChunker",
     "RecursiveChunker",
+    "VietnameseLegalChunker",
     "ChunkingStrategyComparator",
     "compute_similarity",
     "EmbeddingStore",
